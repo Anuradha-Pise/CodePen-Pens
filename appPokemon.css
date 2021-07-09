@@ -1,0 +1,27 @@
+div {
+    display: inline-block;
+    text-align: center;
+    margin: 3px;
+    background-color: #cbc0d3;
+}
+
+div :hover {
+    cursor: pointer;
+    /* block-size: 150px; */
+}
+
+img {
+    display: block;
+}
+
+h1 {
+    text-align: center;
+    font-size: 80px;
+    font-family: 'DotGothic16', sans-serif;
+    letter-spacing: 2 px;
+}
+
+body {
+    background-color: #735d78;
+    color: #5f0f40;
+}
